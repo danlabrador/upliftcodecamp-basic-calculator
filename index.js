@@ -16,6 +16,12 @@ const subtract = (num1, num2) => {
   return num1 - num2;
 };
 
+// Multiply
+const multiply = (num1, num2) => {
+  const product = num1 * num2;
+  return product;
+};
+
 const divide = (num1, num2) => {
   // Validate input
   if (typeof num1 !== "number" || typeof num2 !== "number") {
