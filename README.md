@@ -1,4 +1,4 @@
-# Arithmetic Operations Module
+# Basic Calculator Module
 
 This module provides basic arithmetic operations such as addition, subtraction, multiplication, and division. Each operation is a function that takes two numbers as input and returns the result of the operation.
 
