@@ -1,3 +1,7 @@
+const add = (num1, num2) => {
+  return num1 + num2;
+};
+
 const divide = (num1, num2) => {
   // If num2 is 0, return a string
   if (num2 === 0){
